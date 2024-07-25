@@ -4,7 +4,8 @@
 - 
 <h2>📺 Certifications
   Google Cybersecurity Professional Certificate
-Here are some ideas to get you started:
+
+  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on comptia security+ certification
 - 🌱 I’m currently learning beginer cybersecurity
