@@ -2,7 +2,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - 
-<h2>📺 
+<h2>📺 Certifications
+  Google Cybersecurity Professional Certificate
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on comptia security+ certification
